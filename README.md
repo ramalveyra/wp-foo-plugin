@@ -18,7 +18,7 @@ Supply the details that you want to show within the update on this file.
     "name" : "WP Foo Plugin",
     "slug" : "wp-foo-plugin",
     "homepage" : "https://github.com/Link7",
-    "download_url" : "https://github.com/ramalveyra/wp-foo-plugin/archive/master.zip",
+    "download_url" : "https://github.com/ramalveyra/wp-foo-plugin/archive/v0.1.zip",
     
     "version" : "0.2",
     "requires" : "0.1",
@@ -37,7 +37,7 @@ Supply the details that you want to show within the update on this file.
     }
 }
 ```
-NOTE: For this to work on plugins stored in Github, the ``download_url`` has been supplied with the plugin's "download zip" link: ``https://github.com/ramalveyra/wp-foo-plugin/archive/master.zip``.
+NOTE: For this to work on plugins stored in Github, the ``download_url`` has been supplied with the plugin's "download zip" link: ``https://github.com/ramalveyra/wp-foo-plugin/archive/v0.1.zip``.
 
 
 ##### Auto updater client libraries and configs
