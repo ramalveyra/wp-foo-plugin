@@ -3,7 +3,7 @@
  * Plugin Name: WP Foo Plugin
  * Plugin URI: 
  * Description: A Dummy Wordpress Plugin for testing
- * Version: 0.1
+ * Version: 0.2
  * Author: Link7
  * Author URI: https://github.com/Link7
  * License: GPL3
@@ -45,7 +45,7 @@ class L7_WP_Foo
 
 	public function show_something(){
 		$plugin_details = get_plugin_data(__FILE__);
-		$show = 'WP Foo Plugin Current Version is '. $plugin_details['Version'];
+		$show = 'WP Foo Plugin Current Version is '. $plugin_details['Version'] . ' auto update is awesome!';
 		echo "<p id='wp-foo-plugin-msg'>$show</p>";
 	}
 
