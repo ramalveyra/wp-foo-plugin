@@ -1,0 +1,22 @@
+{
+    "name" : "WP Foo Plugin",
+    "slug" : "wp-foo-plugin",
+    "homepage" : "https://github.com/Link7",
+    "download_url" : "https://github.com/ramalveyra/wp-foo-plugin/archive/master.zip",
+    
+    "version" : "0.1",
+    "requires" : "0.1",
+    "tested" : "0.1",
+    "last_updated" : "2012-04-21 09:00:00",
+    "upgrade_notice" : "List here why you should upgrade...",
+    
+    "author" : "Link7",
+    "author_homepage" : "https://github.com/Link7",
+    
+    "sections" : {
+        "description" : "(Required) Plugin description. Basic HTML can be used in all sections.",
+        "installation" : "(Recommended) Installation instructions.",
+        "changelog" : "(Recommended) Changelog. <p>This section will be opened by default when the user clicks 'View version XYZ information'.</p>",
+        "custom_section" : "This is a custom section labeled 'Custom Section'." 
+    }
+}
