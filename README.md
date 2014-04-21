@@ -20,9 +20,9 @@ Supply the details that you want to show within the update on this file.
     "homepage" : "https://github.com/Link7",
     "download_url" : "https://github.com/ramalveyra/wp-foo-plugin/archive/v0.1.zip",
     
-    "version" : "0.2",
+    "version" : "0.1",
     "requires" : "0.1",
-    "tested" : "0.2",
+    "tested" : "0.1",
     "last_updated" : "2012-04-21 09:00:00",
     "upgrade_notice" : "List here why you should upgrade...",
     
