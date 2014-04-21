@@ -3,7 +3,7 @@
  * Plugin Name: WP Foo Plugin
  * Plugin URI: 
  * Description: A Dummy Wordpress Plugin for testing
- * Version: 0.1
+ * Version: 0.2
  * Author: Link7
  * Author URI: https://github.com/Link7
  * License: GPL3
