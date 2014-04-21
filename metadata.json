@@ -2,9 +2,9 @@
     "name" : "WP Foo Plugin",
     "slug" : "wp-foo-plugin",
     "homepage" : "https://github.com/Link7",
-    "download_url" : "https://github.com/ramalveyra/wp-foo-plugin/archive/v0.1.zip",
+    "download_url" : "https://github.com/ramalveyra/wp-foo-plugin/archive/v0.2.zip",
     
-    "version" : "0.1",
+    "version" : "0.2",
     "requires" : "0.1",
     "tested" : "0.1",
     "last_updated" : "2012-04-21 09:00:00",
