@@ -3,7 +3,7 @@
  * Plugin Name: WP Foo Plugin
  * Plugin URI: 
  * Description: A Dummy Wordpress Plugin for testing
- * Version: 0.2
+ * Version: 0.1
  * Author: Link7
  * Author URI: https://github.com/Link7
  * License: GPL3
@@ -23,6 +23,13 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
+
+require 'plugin-updates/plugin-update-checker.php';
+$MyUpdateChecker = PucFactory::buildUpdateChecker(
+    'https://raw.githubusercontent.com/ramalveyra/wp-foo-plugin/master/metadata.json',
+    __FILE__,
+    'wp-foo-plugin'
+);
 
 class L7_WP_Foo 
 {
